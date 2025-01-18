@@ -1,0 +1,14 @@
+todiList component .css
+h1{
+    text-align: center;
+    size: 2rem;
+}
+
+#submitButton{
+
+    margin-top: 20px;
+}
+
+#mycheckbox {
+    margin-left: 30px;
+}
